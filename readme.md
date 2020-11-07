@@ -13,4 +13,4 @@ user : admin
 
 password: pwd
 
-(I do realize  that giving admin access to strangers is a bad idea that is why I'm going to configure  user groups in JENKINS in order to limit priveleges for people that wants to just check the pipeline)
+(I do realize  that giving admin access to visitors is a bad idea that is why I'm going to configure  user groups in JENKINS in order to limit priveleges for people that wants to just checkout mu work)
